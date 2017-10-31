@@ -1,0 +1,24 @@
+.well {
+    height:100px;
+    font-size: x-large;
+    text-align: center;
+}
+
+body {
+    background: url(https://static.pexels.com/photos/40814/soup-cream-soup-bowl-40814.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.description{
+    text-align:center;
+    font-size:x-large;
+    color:white;
+}
+.items{
+    text-align:center;
+    font-size: x-large;
+    color: black;
+}
