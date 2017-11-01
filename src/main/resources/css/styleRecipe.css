@@ -17,8 +17,8 @@ body {
     font-size:x-large;
     color:white;
 }
-.items{
+a.items{
     text-align:center;
     font-size: x-large;
-    color: black;
+    color: white;
 }
