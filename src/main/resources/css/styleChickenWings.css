@@ -26,3 +26,21 @@ background: url(images/red-background-with-a-pattern.jpg) no-repeat center cente
     font-size: x-large;
     font-style: italic;
 }
+.eggbackground{
+
+    background:url(images/blue.jpeg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+.gallerydescription{
+    text-align:center;
+    font-size: x-large;
+}
+
+img {
+
+    padding: 10px 10px;
+}
