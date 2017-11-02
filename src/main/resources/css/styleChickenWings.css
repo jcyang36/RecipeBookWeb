@@ -45,3 +45,11 @@ img {
     height:300px;
     padding: 10px 10px;
 }
+
+.navbar-brand{
+
+    font-family: 'Inconsolata', monospace;
+
+}
+
+.well{font-weight:bold;}
