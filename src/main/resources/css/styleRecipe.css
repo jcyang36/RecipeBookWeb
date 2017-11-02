@@ -29,3 +29,38 @@ a.items{
     font-family: 'Inconsolata', monospace;
 
 }
+
+
+.navbar-custom {
+    background-color:#683cb0;
+    color:#683cb0;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#ffffff;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: lightcyan;
+    background-color:darkblue;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: #ecf0f1;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#ffffff;
+}
+.navbar-custom .icon-bar {
+    background-color:#ffffff;
+}
