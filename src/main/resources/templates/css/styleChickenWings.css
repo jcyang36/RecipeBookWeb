@@ -12,6 +12,15 @@ background: url(images/red-background-with-a-pattern.jpg) no-repeat center cente
     background-size: cover;
 }*/
 
+h1{
+    text-align:center;
+}
+.newstyle {
+    text-align:center;
+    font-size:large;
+    padding-top:5%;
+
+}
 .description{
 
     font-size:x-large;
@@ -37,7 +46,7 @@ background: url(images/red-background-with-a-pattern.jpg) no-repeat center cente
 }
 .gallerydescription{
     text-align:center;
-    font-size: x-large;
+    font-size: large;
 }
 
 img {
